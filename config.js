@@ -1,20 +1,19 @@
-//my secript by MR KÉVIN TSH Goku v4
-//not sale this script
+
 
 require("./database/module")
 
 //GLOBAL PAYMENT
-global.storename = "ཀ͜͡B̈ÜG̈_̈G̈ÖK̈Ü V̈4̈👾༑"
-global.dana = "243890432038"
-global.qris = "https://i.postimg.cc/VsWWH3gY/TSH-BUG-GOKU-V4.jpg"
+global.storename = "❦K༙A༙N༙E༙K༙I༙-B༙U༙G༙ V༙5❦"
+global.dana = "24160338758"
+global.qris = "https://i.ibb.co/Yp6GwWC/37f4e10a8220195e.jpg"
 
 
 // GLOBAL SETTING
-global.owner = "243890432039"
-global.namabot = "ཀ͜͡B̈ÜG̈_̈G̈ÖK̈Ü V̈4̈👾༑"
-global.nomorbot = "243890432039"
+global.owner = "24160338758"
+global.namabot = "❦K༙A༙N༙E༙K༙I༙-B༙U༙G༙ V༙5❦༑"
+global.nomorbot = "24160338758"
 global.nameCreator = "🌹𝗠𝗥 𝗞𝗘́𝗩𝗜𝗡 𝗧𝗦𝗛 𝗚𝗥𝗜𝗠𝗠🌹"
-global.linkyt = "https://whatsapp.com/channel/0029VajjpHoGZNCsyVLRRk1f"
+global.linkyt = "https://whatsapp.com/channel/0029VaydjpS7z4kekYAreA2Y"
 global.autoJoin = false
 global.antilink = true
 global.versisc = '30'
@@ -27,9 +26,9 @@ global.delayjpm = 5500
 //GLOBAL THUMB
 
 global.codeInvite = ""
-global.imageurl = 'https://i.postimg.cc/VsWWH3gY/TSH-BUG-GOKU-V4.jpg'
-global.isLink = "https://whatsapp.com/channel/0029VajjpHoGZNCsyVLRRk1f"
-global.packname = "ཀ͜͡B̈ÜG̈_̈G̈ÖK̈Ü V̈4̈👾༑"
+global.imageurl = 'https://i.ibb.co/Yp6GwWC/37f4e10a8220195e.jpg'
+global.isLink = "https://whatsapp.com/channel/0029VaydjpS7z4kekYAreA2Y"
+global.packname = "❦K༙A༙N༙E༙K༙I༙-B༙U༙G༙ V༙5❦༑"
 global.author = "🌹𝗠𝗥 𝗞𝗘́𝗩𝗜𝗡 𝗧𝗦𝗛🌹"
 global.jumlah = "5"
 
