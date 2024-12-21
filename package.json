@@ -1,5 +1,5 @@
 {
-  "name": "Kevin-Tsh",
+  "name": "IGWEBOTZ",
   "version": "6.0",
   "description": "SCRIPT VIP NO ENCRYPT",
   "main": "index.js",
@@ -7,8 +7,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Bug_GokuV4",
-  "license": "ISC",
+  "author": "Bug_kanekiV5",
+  "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
